@@ -1,5 +1,5 @@
 # Twitter_last_like
-A simple addon to scroll down to the last post like by the user
+A simple addon to scroll down to the last post liked by the user
 
 # Download
 Download this repo or use git clone to clone the repo.
