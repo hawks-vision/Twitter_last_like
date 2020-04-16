@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "twitter_last_like_finder",
+  "version": "1.0",
+
+  "description": "scrolls till the last liked post in twitter",
+
+  "icons": {
+    "64": "k.png"
+  },
+ "permissions":["activeTab","tabs"],
+ "browser_action": {
+    "default_icon": "k.png",
+    "default_title": "PHG",
+    "default_popup": "/popup.html"
+    }
+  
+
+}
